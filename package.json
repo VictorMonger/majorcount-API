@@ -1,0 +1,23 @@
+{
+  "name": "majorcoount-api",
+  "version": "1.0.0",
+  "description": "api for counting the great quantity number of letters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorMonger/majorcount-API.git"
+  },
+  "author": "Victor Monger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorMonger/majorcount-API/issues"
+  },
+  "homepage": "https://github.com/VictorMonger/majorcount-API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
